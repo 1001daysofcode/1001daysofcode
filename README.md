@@ -6,11 +6,7 @@ AI can accelerate a first prototype. Shipping software that stays secure, testab
 
 I built the 1001 methodology over 1001 days of coding, from June 2020 to March 2023. It is a practical workflow for turning an idea into a dependable production release.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=1001daysofcode&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=1001daysofcode&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=1001daysofcode&theme=default&hide_border=true" alt="1001daysofcode GitHub contribution streak" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=1001daysofcode&hide_border=true" alt="1001daysofcode GitHub contribution streak" />
 
 ## The Five-Step Workflow
 
