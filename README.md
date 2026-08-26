@@ -19,3 +19,5 @@ The methodology focuses on what matters after the prototype works: secure data, 
 ## Read the Methodology
 
 [Read Escape AI Sunk Cost: A Five-Step Workflow That Ships](https://1001doc.com/d)
+
+<img width="1000" height="550" alt="d-wide-light" src="https://github.com/user-attachments/assets/bfdc3847-0e22-460b-81e9-8f274b6ae7fe" />
