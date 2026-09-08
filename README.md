@@ -1,6 +1,4 @@
-# 1001 Days of Code
-
-## Escape AI Sunk Cost. Ship Reliable Software.
+<img width="1000" height="550" alt="d-wide-light" src="https://github.com/user-attachments/assets/bfdc3847-0e22-460b-81e9-8f274b6ae7fe" />
 
 AI can accelerate a first prototype. Shipping software that stays secure, testable, and maintainable requires a repeatable delivery process.
 
@@ -19,5 +17,3 @@ The methodology focuses on what matters after the prototype works: secure data, 
 ## Read the Methodology
 
 [Read Escape AI Sunk Cost: A Five-Step Workflow That Ships](https://1001doc.com/d)
-
-<img width="1000" height="550" alt="d-wide-light" src="https://github.com/user-attachments/assets/bfdc3847-0e22-460b-81e9-8f274b6ae7fe" />
