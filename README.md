@@ -12,6 +12,4 @@ I learned the software development life cycle over 1001 days of code from June 2
 
 The methodology focuses on what matters after the prototype works: secure data, reliable logic, real validation, and clean releases.
 
-## Read the 1001 Way
-
-[Read Escape AI Sunk Cost: A Five-Step Workflow That Ships](https://1001doc.com/d)
+## [Read the 1001 Way: A Five-Step Workflow That Ships](https://1001doc.com/d)
