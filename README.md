@@ -1,6 +1,6 @@
 <img width="1000" height="550" alt="d-wide-light" src="https://github.com/user-attachments/assets/bfdc3847-0e22-460b-81e9-8f274b6ae7fe" />
 
-I built the 1001 methodology over 1001 days from June 2020 to March 2023. It is not a toolchain or a hype cycle. It is a system for building secure, sustainable code and deploying it reliably.
+I learned the software development life cycle over 1001 days of code from June 2020 to March 2023. Then I molded it to fit my GitHub Actions Pipeline. The five step workflow is a system for building secure, sustainable code and deploying it reliably.
 
 ## The Five-Step Workflow
 
