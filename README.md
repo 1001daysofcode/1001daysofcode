@@ -1,6 +1,6 @@
 I learned the software development life cycle over 1001 days of code from June 2020 to March 2023. The five step workflow is a Github Actions pipeline for building secure, sustainable code and deploying it reliably.
 
-<img width="1000" height="550" alt="d-wide-light" src="https://github.com/user-attachments/assets/bfdc3847-0e22-460b-81e9-8f274b6ae7fe" />
+<img width="1000" height="563" alt="d-wide-light" src="https://github.com/user-attachments/assets/d44d29a8-3ac8-44b8-af75-c633c33ad91e" />
 
 ## The Five-Step Workflow
 
