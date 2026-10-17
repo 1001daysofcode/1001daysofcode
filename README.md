@@ -6,7 +6,7 @@ One lesson became clear: **writing code quickly isn't the same as shipping quali
 
 AI can accelerate development, but speed without discipline leads to fragile code, missed requirements, regressions, and releases you can't trust.
 
-That's why I built **The 1001 Pipeline**: a five-step engineering workflow for turning ideas into secure, tested, reliable software.
+Being stuck in tutorial hell and stack overflow is why I built **The 1001 Pipeline**: a five-step engineering workflow for turning ideas into secure, tested, reliable software.
 
 <img width="1000" height="563" alt="The 1001 Pipeline — A Five Step Way to Ship Solid Code" src="https://github.com/user-attachments/assets/a566b532-b9bb-4c0d-a0fe-23ba78a8ba9f" />
 
